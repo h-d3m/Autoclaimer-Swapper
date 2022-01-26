@@ -25,7 +25,7 @@ CYAN    = '\033[36m'
 WHITE   = '\033[37m'
 RESET   = '\033[39m'
 
-username_list = "twitter_usernames.txt" #List of usernames to claim for turbo/autoclaimer
+username_list = "usernames.txt" #List of usernames to claim for turbo/autoclaimer
 account_headers = "headers.txt" #Your account headers
 
 os.system("cls") #clear panel
