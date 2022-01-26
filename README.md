@@ -12,7 +12,7 @@ https://discord.gg/vG5Rz9dASx
 
 You will need to grab the headers and cookies from the account you are wanting to use.<br>
 Once you have done this, place them in file **"headers.txt"**<br>
-It should look like this: 
+It should look like this: https://github.com/itsunderscores/Twitter-Autoclaimer-Swapper/blob/main/headers.png?raw=true
 
 <hr>
 
