@@ -5,6 +5,11 @@ Last Update: **01/26/2022**<br>
 
 Use this at your own descretion. I've only used this on test accounts and nothing high-end. Although, it should get the job done.<br>
 
+If you need helping swapping or cannot get this **simple** program working. Feel free to contact me.<br>
+https://discord.gg/vG5Rz9dASx
+
+<hr>
+
 You will need to grab the headers and cookies from the account you are wanting to use.<br>
 Once you have done this, place them in file **"headers.txt"**<br>
 It should look like this: 
