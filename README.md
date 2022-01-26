@@ -17,7 +17,7 @@ Turbo/Auto-claim list of username(s).
 * Recommended threads is 10-20 if you don't want your account to get locked.
 
 1) Place your account headers in: **"headers.txt"**
-2) It will go through the list of usernames in file **twitter_usernames.txt** and will see if the name is available.
+2) It will go through the list of usernames in file **usernames.txt** and will see if the name is available.
 
 <hr>
 
